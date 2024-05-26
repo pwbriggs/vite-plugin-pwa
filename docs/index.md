@@ -36,7 +36,7 @@ features:
     title: Offline Support
     details: Generate Service Worker with Offline support (via Workbox)
   - icon: ⚡
-    title: Fully tree shakable
+    title: Fully tree-shakable
     details: Auto inject Web App Manifest
   - icon: 💬
     title: Prompt for new content

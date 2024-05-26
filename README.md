@@ -35,7 +35,7 @@ Zero-config PWA Framework-agnostic Plugin for Vite
 - 🔩 **Extensible**: expose the full ability to customize the behavior of the plugin
 - 🦾 **Type Strong**: written in [TypeScript](https://www.typescriptlang.org/)
 - 🔌 **Offline Support**: generate service worker with offline support (via Workbox)
-- ⚡ **Fully tree shakable**: auto inject Web App Manifest
+- ⚡ **Fully tree-shakable**: auto inject Web App Manifest
 - 💬 **Prompt for new content**: built-in support for Vanilla JavaScript, Vue 3, React, Svelte, SolidJS and Preact
 - ⚙️ **Stale-while-revalidate**: automatic reload when new content is available
 - ✨ **Static assets handling**: configure static assets for offline support
